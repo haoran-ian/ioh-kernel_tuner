@@ -1,0 +1,4 @@
+*.zip
+kernel_tuner/
+BBOB/
+__pycache__/
